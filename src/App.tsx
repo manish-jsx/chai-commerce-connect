@@ -12,6 +12,7 @@ import Categories from "./pages/Categories";
 import Sellers from "./pages/Sellers";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
+import Blog from "./pages/Blog";
 
 const queryClient = new QueryClient();
 
