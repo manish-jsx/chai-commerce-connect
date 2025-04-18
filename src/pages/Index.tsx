@@ -8,6 +8,7 @@ import MarketplaceFeatures from "@/components/MarketplaceFeatures";
 import Testimonials from "@/components/Testimonials";
 import CallToAction from "@/components/CallToAction";
 import FeaturedProducts from "@/components/FeaturedProducts";
+import FeaturedBlogs from "@/components/FeaturedBlogs";
 
 const Index = () => {
   return (
@@ -19,6 +20,7 @@ const Index = () => {
         <TeaCategories />
         <FeaturedSellers />
         <MarketplaceFeatures />
+        <FeaturedBlogs />
         <Testimonials />
         <CallToAction />
       </main>
